@@ -1674,6 +1674,13 @@ www.llllllllllll.net^$third-party
 ||zedo.com^$third-party
 ||zeti.com^$third-party
 ||zptncsir.com^
+||appmetr.com^
+||d239g0z67jcted.cloudfront.net^
+||data2.doodlemobile.com^
+||lh3.googleusercontent.com^
+||newfeatureview.perfectionholic.com^
+||d3jhh8va3kyqsf.cloudfront.net^
+||featured.perfectionholic.com^
 !
 ! Ads reinjection (For apps only)
 !+ NOT_PLATFORM(windows, mac, android)
